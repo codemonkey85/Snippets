@@ -1,3 +1,5 @@
+// Found at http://stackoverflow.com/questions/6430303/fixed-length-structure-re-arrange-should-i-use-array-or-linked-list
+
 #include <iostream>
 #include <string>
 #include <vector>
